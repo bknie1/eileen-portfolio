@@ -1,3 +1,5 @@
+This is a prototype portfolio site using a Gatsby Starter for style. Pages related to art and performances may be auto generated. This infrastructure may be ported to a different starter or custom Gatsby project; I was just looking to save time on the front end.
+
 <p align="center">
   <a href="https://jodie.lekoarts.de">
     <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
