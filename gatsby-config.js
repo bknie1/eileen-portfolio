@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-jodie/gatsby-config.js
-    siteTitle: `Eileen Hoang`,
-    siteTitleAlt: `Eileen Hoang - Actor`,
-    siteHeadline: `Eileen Hoang - Portfolio`,
-    siteUrl: `https://www.bknieriem.com`,
-    siteDescription: `A portfolio website for Eileen Hoang`,
+    siteTitle: `Jodie`,
+    siteTitleAlt: `Jodie - Gatsby Starter Portfolio`,
+    siteHeadline: `Jodie - Gatsby Theme from @lekoarts`,
+    siteUrl: `https://jodie.lekoarts.de`,
+    siteDescription: `Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@bknie1 && @lekoarts_de`,
+    author: `@lekoarts_de`,
   },
   plugins: [
     {
