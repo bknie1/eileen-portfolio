@@ -7,7 +7,6 @@ const Logo = (props) => (
     xmlns="http://www.w3.org/2000/svg"
     {...props}
   >
-    <title>Eileen Hoang</title>
     <g
       id="layer4"
       style={{
